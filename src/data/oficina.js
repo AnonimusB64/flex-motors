@@ -1,7 +1,7 @@
 export const oficina = {
   nome: 'Centro Automotivo Flex Motors',
   telefone: '(61) 3629-4005',
-  whatsapp: '556136294005',
+  whatsapp: '556199028787',
   endereco: 'Avenida 15 de Junho, Quadra 09, Lote 18, Loja 1, Valparaizo II, Valparaíso de Goiás - GO, CEP 72870-109',
   horario: [
     { dia: 'Segunda a sexta', hora: '9h às 17h' },
